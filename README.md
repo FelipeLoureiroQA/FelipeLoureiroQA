@@ -8,4 +8,4 @@
 </table>
 </center>  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,go,linux,md,mysql,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,go,linux,md,mysql,python,selenium,cypress)](https://skillicons.dev)
